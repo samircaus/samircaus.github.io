@@ -28,5 +28,5 @@ menu:
     weight: 10
   - identifier: github
     name: GitHub
-    url: https://github.com/twittersamircaus
+    url: https://github.com/samircaus
     weight: 20
