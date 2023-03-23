@@ -1,8 +1,6 @@
 # samircaus.github.io
 
-[![status: active](https://opensource.twitter.dev/status/active.svg)](https://opensource.twitter.dev/status/#active)
-
-This is the Twitter Open Source website at https://opensource.twitter.dev.
+[![status: active]
 
 This site is built with [hugo], using a custom built-in theme.  Follow the
 standard instructions on the hugo website to [install] and [run] hugo.  Just
