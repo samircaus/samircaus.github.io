@@ -12,3 +12,17 @@ data].
 [install]: https://gohugo.io/getting-started/installing/
 [run]: https://gohugo.io/getting-started/usage/
 [update some repo data]: ./.github/workflows/update-data.yml
+
+
+## Using
+
+```
+hugo serve
+```
+
+to start local env.
+
+```
+hugo
+```
+to generate pages in public/

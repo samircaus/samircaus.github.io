@@ -21,11 +21,6 @@ markup:
 menu:
   main:
   # individual pages are added to menu in their front matter
-  - identifier: blog
-    name: Blog
-    url: https://scaus.art/blog
-    rel: noopener
-    weight: 10
   - identifier: github
     name: GitHub
     url: https://github.com/samircaus
